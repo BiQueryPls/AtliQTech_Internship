@@ -41,3 +41,25 @@ As a Data Analyst Intern at AtliQ Technologies, I will work with experienced pro
 ### Solution:
 [Week 1_Internship_soln](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/Week%201_Internship_soln.pbix)  
 **Tool: Power BI**
+
+> ### Email #2:
+> #### DATA NORMALIZATION TASK
+> Well done with the previous task. I have a new one for you.
+>
+> One of our client projects requires minor support. The dataset is currently in a de-normalized form, and we need your help to transform it into a normalized form.
+>
+> Your task will involve creating proper fact and dimension tables based on the dataset, which can be found in the [fact_order_lines.csv](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/fact_order_lines.csv) file.
+>
+> <b>Here are a few screenshots of the dataset to give you a better idea of what it looks like and how the final output should be presented:</b>
+> #### Input Data:
+> <img src="denormalised_table.webp">
+> 
+#### Outnut Data:
+> <img src="normalized_table.png">
+> <img src="normalized_tables.png">
+>
+> <br>Best regards,</br>
+> <img src="Atliq%20A%20logo-04.png" width="40" alt="AtliQ Logo">
+> <br>Hem</br>
+> Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+> <br>Website: [www.atliq.com](https://www.atliq.com/)</br>
