@@ -39,7 +39,7 @@ As a Data Analyst Intern at AtliQ Technologies, I will work with experienced pro
 > <br>Website: [www.atliq.com](https://www.atliq.com/)</br>
 
 ### Solution:
-[Week 1_Internship_soln](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/Week%201_Internship_soln.pbix)  
+[Task 1: Internship_soln](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/Week%201_Internship_soln.pbix)  
 **Tool: Power BI**
 
 > ### Email #2:
@@ -63,3 +63,36 @@ As a Data Analyst Intern at AtliQ Technologies, I will work with experienced pro
 > <br>Hem</br>
 > Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 > <br>Website: [www.atliq.com](https://www.atliq.com/)</br>
+
+### Solution:
+
+#### Quality Check
+Q. What is the sum of the row counts for each of the three tables, dim_customers, dim_dates, and dim_products, when counted individually and then summed together?
+i.e row_count(dim_customers) + row_count(dim_dates) + row_count(dim_products)
+Note: Please note that the input should be a whole number. (ex: 520)
+
+#### Answer: 236
+
+[Task 2: Internship_soln](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/Task%202%20Internship_soln.pbix)  
+**Tool: Power BI**
+
+> ### Email #3:
+> #### SCRUM TRAINING
+> I’m forwarding the email from HR, in case it didn’t reach you.
+>
+> As part of your internship, we will be covering the SCRUM methodology in software development. SCRUM is a widely-used agile methodology that helps teams collaborate effectively to deliver high-quality software products.
+>
+> To help you gain a thorough understanding of SCRUM, I am pleased to introduce you to the SCRUM Training Series, available at https://scrumtrainingseries.com/. This is a comprehensive online training program that covers all aspects of SCRUM, from its basics to advanced concepts.
+>
+> It is mandatory for you to complete the SCRUM Training Series as having a good understanding of it will make you a more valuable employee in the industry.
+>
+> <br>Good luck with your task!</br>
+> <br>Best regards,</br>
+> <img src="Atliq%20A%20logo-04.png" width="40" alt="AtliQ Logo">
+> <br>Hem</br>
+> Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+> <br>Website: [www.atliq.com](https://www.atliq.com/)</br>
+
+### Solution:
+> [Task 3: Scrum Knowledge: Passed with 100%](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/Scrum%20Training%20passed)  
+
