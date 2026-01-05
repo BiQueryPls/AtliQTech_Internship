@@ -32,8 +32,9 @@ Weekly Off --> WO
 You are free to use any tool of your preference, such as Pandas, Excel, PowerBI, etc., to complete this task.
 <br>Good luck with your task!</br>
 <br>Best regards,</br>
+<img src="Atliq%20A%20logo-04.png" width="40" alt="AtliQ Logo">
 <br>Hem</br>
-Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
-Website:
+Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+<br>Website: [www.atliq.com](https://www.atliq.com/)</br>
 
-Website: [www.atliq.com!](https://www.atliq.com/)
+### Solution:
