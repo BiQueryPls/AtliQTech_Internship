@@ -2,7 +2,7 @@
 As a Data Analyst Intern at AtliQ Technologies, I will work with experienced professionals to analyze data, create reports, and provide insights that will aid in making informed business decisions. This internship will be conducted remotely and will provide all the necessary tools and resources to help me succeed in this role.
 
 ## WEEK 1: 
-> ### Email #1:
+> ### Task Email #1:
 > #### HR REPORT
 > Sending you these tasks following up on our call.
 > The HR dataset can be found in the file [attendance_data.csv](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/attendance_data.csv). 
@@ -42,7 +42,7 @@ As a Data Analyst Intern at AtliQ Technologies, I will work with experienced pro
 [Task 1: Internship_soln](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/Task%201%20Internship_soln.pbix)  
 **Tool: Power BI**
 
-> ### Email #2:
+> ### Task Email #2:
 > #### DATA NORMALIZATION TASK
 > Well done with the previous task. I have a new one for you.
 >
@@ -76,7 +76,7 @@ Note: Please note that the input should be a whole number. (ex: 520)
 [Task 2: Internship_soln](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/Task%202%20Internship_soln.pbix)  
 **Tool: Power BI**
 
-> ### Email #3:
+> ### Task Email #3:
 > #### SCRUM TRAINING
 > I’m forwarding the email from HR, in case it didn’t reach you.
 >
@@ -98,7 +98,7 @@ Note: Please note that the input should be a whole number. (ex: 520)
 <img src="Scrum Training passed">
 
 ## WEEK 2: 
-> ### Email #1:
+> ### Task Email #1:
 > #### VARIANCE ANALYSIS TASK
 > Here is the detailed explanation of the task.
 >
@@ -139,18 +139,93 @@ Note: Please note that the input should be a whole number. (ex: 520)
 ### Solution:
 
 #### Quality Check
-1. Which customer_id has the largest absolute difference between their recorded order quantity and the benchmark order quantity?
+Q1. Which customer_id has the largest absolute difference between their recorded order quantity and the benchmark order quantity?
 i.e Absolute(benchmark_order_qty - recorded_order_qty)
 
 #### Answer: 789903
 
-2. How many customers in the delivery category have a difference of greater than 3% between their recorded delivery quantity and the benchmark delivery quantity, expressed as a percentage of the benchmark? i.e delivery%_from_benchmarks = ABSOLUTE((benchmark_delivery_qty - recorded_delivery_qty)) / benchmark_delivery_qty * 100
+Q2. How many customers in the delivery category have a difference of greater than 3% between their recorded delivery quantity and the benchmark delivery quantity, expressed as a percentage of the benchmark? i.e delivery%_from_benchmarks = ABSOLUTE((benchmark_delivery_qty - recorded_delivery_qty)) / benchmark_delivery_qty * 100
 
 #### Answer: 5 customers
 
-3. What is the quantity of orders recorded for “Viveks Stores” in the city of 'Vadodara' during the month of March 2022?
+Q3. What is the quantity of orders recorded for “Viveks Stores” in the city of 'Vadodara' during the month of March 2022?
 
 #### Answer: 73011
 
 #### Solution File : [variance analysis_soln](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/variance%20analysis_soln.pbix)
 **Tool: Power BI**
+
+> ### Task Email #2:
+> #### SQL QUERY DEBUGGING
+> I’m struggling with something and need your help. We have some SQL queries created by our previous interns, and it seems they were not debugged. Can you debug them?
+>
+> I've provided you with the necessary files to get started. Please download the 'gdb080.sql' file and load it into your MySQL Workbench. You can then open the 'sql_queries.docx' file to view the list of queries that you need to debug. Each query has some errors that need to be identified and fixed. Please ensure that you test each query thoroughly after fixing the errors.
+>
+> This task is urgent – please complete it as soon as possible.
+> <br>Best regards,</br>
+> <img src="Atliq%20A%20logo-04.png" width="40" alt="AtliQ Logo">
+> <br>Hem</br>
+> Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+> <br>Website: [www.atliq.com](https://www.atliq.com/)</br>
+
+### Solution:
+
+#### Quality Check
+Q1. How many unique customers are in the city of 'Surat'? 
+#### Answer: 73011
+
+Q2. What is the highest quantity available for the product 'AM Tea 100'?
+#### Answer: 200
+
+Q3. In which month were the unfulfilled orders the highest in number?
+#### Answer: May
+
+Q4. What is the percentage of the total order quantity accounted for by the 'food' category? (Submit answer in 2 decimals)
+#### Answer: 12.50
+
+Q5. What is the count of customers falling under the 'Above 90' category based on their ontime_target_pct?
+#### Answer: 9
+
+Q6. What is the count of distinct products available in the 'Dairy' category?
+#### Answer: 12
+
+Q7. What is the total order quantity (in millions) for the top 3 products in the Dairy Category? Q7. (Submit answer in 2 decimals)
+#### Answer: 3.81
+
+Q8. What is the OTIF percentage for the customer "Vijay Stores"?
+#### Answer: 28.28
+
+Q9. What is the count of products with an IF percentage greater than 67%?
+#### Answer: 3
+
+#### Solution File : [sql query debugging_soln](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/sql%20query%20debugging_soln.sql) | **Tool: MySQL**
+
+> ### Task Email #3:
+> #### REPORT AUTOMATION
+> I have a quick ad-hoc task for you.
+>
+> One of our clients in the Network services domain is currently creating a weekly report manually. This process can be automated, and we can help them save time.
+>
+> I've provided you with two Excel sheets - "network_data.csv" and "activity_data.csv", containing data related to our client's network operations. Your task is to use Power Query to manipulate and transform the data from these files and create a new table that meets the specified format.
+>
+> To achieve the desired format, you'll need to use a variety of Power Query techniques, such as pivoting, transforming, merging, and manipulating headers.
+
+> #### Input Data:
+> <img src="network_analysis.png">
+>
+> #### Output Data:
+> <img src="network_analysis2.png">
+>
+> Please complete this task as soon as possible. If you need any assistance, feel free to reach out to your seniors.
+
+> <br>Best regards,</br>
+> <img src="Atliq%20A%20logo-04.png" width="40" alt="AtliQ Logo">
+> <br>Hem</br>
+> Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+> <br>Website: [www.atliq.com](https://www.atliq.com/)</br
+
+### Solution:
+
+#### Quality Check
+Q1. Which city has the lowest frequency of the "Connected" network category?
+#### Answer: Jaipur
