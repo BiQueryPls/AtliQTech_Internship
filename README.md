@@ -276,6 +276,8 @@ Q5. What is the average frequency of the "Suspended" category across all cities?
 
 #### Solution File : [Wavecon Telecom_PPT](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/Wavecon%20Telecom_PPT.pptx) | **Tool: Microsoft Powerpoint**
 
+#### video link: [LinkedIn Internship Submission](https://www.linkedin.com/posts/sagarmurmuanalyst_codebasicsvirtualinternship-codebasicsvirtualinternship-activity-7414265093305225216-tyUt)
+
 
 
 
