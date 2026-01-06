@@ -54,7 +54,7 @@ As a Data Analyst Intern at AtliQ Technologies, I will work with experienced pro
 > #### Input Data:
 > <img src="denormalised_table.webp">
 > 
-#### Outnut Data:
+#### Output Data:
 > <img src="normalized_table.png">
 > <img src="normalized_tables.png">
 >
@@ -94,5 +94,61 @@ Note: Please note that the input should be a whole number. (ex: 520)
 > <br>Website: [www.atliq.com](https://www.atliq.com/)</br>
 
 ### Solution:
-> [Task 3: Scrum Knowledge: Passed with 100%](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/Scrum%20Training%20passed)  
+ Task 3: Scrum Knowledge: Passed with 100% 
+<img src="Scrum Training passed">
 
+## WEEK 2: 
+> ### Email #1:
+> #### VARIANCE ANALYSIS TASK
+> Here is the detailed explanation of the task.
+>
+> You need to conduct variance analysis to compare benchmark data (benchmarks.csv) with their current data (fact_orders.csv). The goal of this analysis is to identify and quantify the differences or variations between the two datasets. Specifically, you will be comparing the order quantity and delivery quantity from the fact_orders.csv file with the benchmark data provided in the benchmarks.csv file.
+>
+> Datasets:
+> You will be provided with three datasets for this analysis:
+>
+> 1. fact_orders.csv: Contains columns like order_id, order_placement_date, mmm_yy, customer_id, product_name, order_qty, and delivery_qty.
+> 2. dim_customers.csv: Contains columns like customer_id, customer_name, and city.
+> 3. benchmarks.csv: Contains columns like mmm_yy, customer_id, customer_name, city, total_order_quantity, and total_delivery_quantity.
+>
+> **Workflow:**
+> Here is a brief overview of the workflow for the task:
+>
+> 1. Review the benchmark data and the current data (fact_orders.csv).
+> 2. Metrics to compare between two files: Order quantity and Delivery quantity.
+> 3. Calculate the variance (absolute value) between the benchmark data and the current data for the identified metrics.
+> 4. Calculate the variance (in percentage) between the benchmark data and the current data for the identified metrics.
+> 5. Provide a complete report of the difference in numbers between the benchmark data and the main data.
+> Please ensure that you thoroughly analyze the datasets and provide a comprehensive report of the differences in the order quantity and delivered quantity between the benchmark data and the main data.
+>
+> Attaching screenshots from a dummy report I created, which will give you a better idea of what it looks like and how the final output should be presented:
+>
+> #### Output Data:
+> <img src="order_quantity.png">
+> <img src="delivery_quantity.png">
+> Feel free to ask your seniors for any questions!
+>
+> Good luck with this task!
+> <br>Best regards,</br>
+> <img src="Atliq%20A%20logo-04.png" width="40" alt="AtliQ Logo">
+> <br>Hem</br>
+> Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+> <br>Website: [www.atliq.com](https://www.atliq.com/)</br>
+
+### Solution:
+
+#### Quality Check
+1. Which customer_id has the largest absolute difference between their recorded order quantity and the benchmark order quantity?
+i.e Absolute(benchmark_order_qty - recorded_order_qty)
+
+#### Answer: 789903
+
+2. How many customers in the delivery category have a difference of greater than 3% between their recorded delivery quantity and the benchmark delivery quantity, expressed as a percentage of the benchmark? i.e delivery%_from_benchmarks = ABSOLUTE((benchmark_delivery_qty - recorded_delivery_qty)) / benchmark_delivery_qty * 100
+
+#### Answer: 5 customers
+
+3. What is the quantity of orders recorded for “Viveks Stores” in the city of 'Vadodara' during the month of March 2022?
+
+#### Answer: 73011
+
+#### Solution File : 
