@@ -206,7 +206,7 @@ Q9. What is the count of products with an IF percentage greater than 67%?
 >
 > One of our clients in the Network services domain is currently creating a weekly report manually. This process can be automated, and we can help them save time.
 >
-> I've provided you with two Excel sheets - "network_data.csv" and "activity_data.csv", containing data related to our client's network operations. Your task is to use Power Query to manipulate and transform the data from these files and create a new table that meets the specified format.
+> I've provided you with two Excel sheets - [network_data.csv](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/network_data.csv) and [activity_data.csv](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/activity_data.csv), containing data related to our client's network operations. Your task is to use Power Query to manipulate and transform the data from these files and create a new table that meets the specified format.
 >
 > To achieve the desired format, you'll need to use a variety of Power Query techniques, such as pivoting, transforming, merging, and manipulating headers.
 
@@ -229,3 +229,56 @@ Q9. What is the count of products with an IF percentage greater than 67%?
 #### Quality Check
 Q1. Which city has the lowest frequency of the "Connected" network category?
 #### Answer: Jaipur
+
+Q2. How many cities have reported the network "Outage" category more than 5 times?
+#### Answer: 3
+
+Q3. What is the median frequency of "Network Expansion" category across all cities?
+#### Answer: 5
+
+Q4. What is the total frequency of the 'shifting' category in Ahmedabad city?
+#### Answer: 11
+
+Q5. What is the average frequency of the "Suspended" category across all cities?
+#### Answer: 3.7
+
+#### Solution File : [report automation_soln](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/report%20automation_soln.xlsx) | **Tool: Microsoft Excel**
+
+> ### Task Email #4:
+> #### INSIGHT PRESENTATION
+> I’m sending the details to you as discussed in the call.
+>
+> You need to create a presentation from the dashboard for our telecom client 'wavecon'.
+>
+> Preview of the dashboard:
+>
+> <img src="wavecon.webp">
+>
+> Your task is to analyze the dashboard and provide insights on a ppt that addresses the following questions:
+>
+> 1. What is the impact of the 5G launch on our revenue?
+> 2. Which KPI is underperforming after the 5G launch?
+> 3. After the 5G launch, which plans are performing well in terms of revenue? Which plans are not performing well?
+> 4. Is there any plan affected largely by the 5G launch? Should we continue or discontinue that plan?
+> 5. Is there any plan that is discontinued after the 5G launch? What is the reason for it?
+>
+> These are just initial questions to help you get started, and you are free to come up with new insights based on your analysis. You can also play around with the dashboard to get better insights.
+>
+> Of course, you can check with your seniors as usual.
+>
+> Looking forward to your best!
+>
+> <br>Best regards,</br>
+> <img src="Atliq%20A%20logo-04.png" width="40" alt="AtliQ Logo">
+> <br>Hem</br>
+> Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+> <br>Website: [www.atliq.com](https://www.atliq.com/)</br>
+
+#### Solution File : [Wavecon Telecom_PPT](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/Wavecon%20Telecom_PPT.pptx) | **Tool: Microsoft Powerpoint**
+
+
+
+
+
+
+
