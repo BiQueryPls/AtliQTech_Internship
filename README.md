@@ -39,7 +39,7 @@ As a Data Analyst Intern at AtliQ Technologies, I will work with experienced pro
 > <br>Website: [www.atliq.com](https://www.atliq.com/)</br>
 
 ### Solution:
-[Task 1: Internship_soln](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/Week%201_Internship_soln.pbix)  
+[Task 1: Internship_soln](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/Task%201%20Internship_soln.pbix)  
 **Tool: Power BI**
 
 > ### Email #2:
