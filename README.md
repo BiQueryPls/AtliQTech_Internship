@@ -126,6 +126,7 @@ Note: Please note that the input should be a whole number. (ex: 520)
 > #### Output Data:
 > <img src="order_quantity.png">
 > <img src="delivery_quantity.png">
+>
 > Feel free to ask your seniors for any questions!
 >
 > Good luck with this task!
@@ -151,4 +152,5 @@ i.e Absolute(benchmark_order_qty - recorded_order_qty)
 
 #### Answer: 73011
 
-#### Solution File : 
+#### Solution File : [variance analysis_soln](https://github.com/BiQueryPls/AtliQTech_Internship/blob/main/variance%20analysis_soln.pbix)
+**Tool: Power BI**
